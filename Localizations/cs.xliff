@@ -910,6 +910,11 @@
         <note>Class = "NSMenuItem"; title = "Rename…"; ObjectID = "1181";</note>
         <target xml:lang="cs" state="translated">Přejmenovat…</target>
       </trans-unit>
+      <trans-unit id="1184.title">
+        <source>Delete…</source>
+        <note>Class = "NSMenuItem"; title = "Delete…"; ObjectID = "1184";</note>
+        <target xml:lang="cs" state="translated">Smazat…</target>
+      </trans-unit>
       <trans-unit id="1186.title">
         <source>Skip Folder</source>
         <note>Class = "NSMenuItem"; title = "Skip Folder"; ObjectID = "1186";</note>
@@ -955,6 +960,11 @@
         <note>Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1257";</note>
         <target xml:lang="cs" state="translated">Přizpůsobit řádek nástrojů…</target>
       </trans-unit>
+      <trans-unit id="1258.title">
+        <source>Hide Toolbar</source>
+        <note>Class = "NSMenuItem"; title = "Hide Toolbar"; ObjectID = "1258";</note>
+        <target xml:lang="cs" state="translated">Schovat lištu</target>
+      </trans-unit>
       <trans-unit id="1259.title">
         <source>Hide Status Bar</source>
         <note>Class = "NSMenuItem"; title = "Hide Status Bar"; ObjectID = "1259";</note>
@@ -979,6 +989,11 @@
         <source>Order By</source>
         <note>Class = "NSMenu"; title = "Order By"; ObjectID = "1337";</note>
         <target xml:lang="cs" state="translated">Seřadit podle</target>
+      </trans-unit>
+      <trans-unit id="1339.title">
+        <source>Name</source>
+        <note>Class = "NSMenuItem"; title = "Name"; ObjectID = "1339";</note>
+        <target xml:lang="cs" state="translated">Název</target>
       </trans-unit>
       <trans-unit id="1408.title">
         <source>Unsubscribe</source>
@@ -1757,6 +1772,11 @@
         <note>Data field name visible in smart folder definition</note>
         <target xml:lang="cs" state="translated">Smazáno</target>
       </trans-unit>
+      <trans-unit id="Delete…">
+        <source>Delete…</source>
+        <note>Title of a menu item</note>
+        <target xml:lang="cs" state="translated">Smazat…</target>
+      </trans-unit>
       <trans-unit id="Do you really want to import the subscriptions from the specified OPML file?">
         <source>Do you really want to import the subscriptions from the specified OPML file?</source>
         <note>No comment provided by engineer.</note>
@@ -1931,6 +1951,11 @@
         <source>Hide Status Bar</source>
         <note>Title of a menu item</note>
         <target xml:lang="cs" state="translated">Skrýt stavový řádek</target>
+      </trans-unit>
+      <trans-unit id="Hide Toolbar">
+        <source>Hide Toolbar</source>
+        <note>Title of a menu item</note>
+        <target xml:lang="cs" state="translated">Schovat lištu</target>
       </trans-unit>
       <trans-unit id="Import">
         <source>Import</source>
